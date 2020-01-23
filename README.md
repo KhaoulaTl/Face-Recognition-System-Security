@@ -1,2 +1,5 @@
 # Face-Recognition-System-Security
 This project aims at automating the locking and unlocking of the main door of the house . Camera installed at the main door is used to capturing photos of the person standing in front of the door , then the images capturing are processed by the python facial recognition software , which then detects any known faces in the picture and unlocks the door fore the people whose faces are identified successfully . After detecting any movement by the captor of movement the door is locked .  However, if there no known faces in the picture taken the door not unlocking . 
+# The goal of the main project 
+The main goal of creating such a system is to make security as convenient as possible.
+This project is a low-cost , adaptive , and extensible surveillance system focused on identifying visitors . It can be integrated into an existing alarm system or be paired with a lock . It operates in real time and can distinguish between someone who is in the face database and someone who is not .
